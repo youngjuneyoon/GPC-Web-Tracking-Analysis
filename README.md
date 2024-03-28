@@ -8,7 +8,7 @@ The research investigates the impact of Global Privacy Control (GPC) on web trac
 
 ## Repository Contents
 
-- `The_Effects_of_GPC___YJ_Yoon__Jiwoo_Seo.pdf`: The full research paper.
+- `Effects of Global Privacy Control (GPC) on Web Tracking Across Different Regional Jurisdictions.pdf`: The full research paper.
 - `source_code/`: The directory includes a customized Python script derived from OpenWPM, tailored for the study. Additionally, this directory houses Python scripts designed for visualizing the data obtained from web crawling.
 
 
