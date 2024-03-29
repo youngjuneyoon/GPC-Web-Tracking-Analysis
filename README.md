@@ -32,7 +32,6 @@ Yoon, Y. J., & Seo, J. (2023). The Effects of Global Privacy Control on Web Trac
 
 ## Acknowledgments
 
-- Acknowledgments to contributors, funding sources, or institutions.
 - Special thanks to the OpenWPM project for providing the foundational tools used in this research.
 
 ## Contact Information
